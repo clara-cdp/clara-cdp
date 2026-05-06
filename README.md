@@ -41,7 +41,7 @@
 ## Testing
 
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-7B2BF9?style=for-the-badge&logo=php&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
