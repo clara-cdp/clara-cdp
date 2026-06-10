@@ -61,24 +61,11 @@ Also Available: API + Front END (REACT)
 
 
 ---
-# 🌱 Currently Learning
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-- Unity game development
-- Advanced Laravel concepts
-- Backend architecture
-- Full-stack deployment
-
----
 
 # 📈 Working On
 
-- Building portfolio-ready projects  
-- Improving backend architecture  
-- Exploring game development with Unity  
-- Expanding full-stack development skills  
-
+- Building new portfolio-ready projects  
+- 3D adventure game with Unity  
 ---
 
 <div align="center">
