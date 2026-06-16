@@ -47,7 +47,13 @@
 ---
 
 # 📌 Featured Projects
+## ⭐ MY GD PORTFOLIO
 
+Featuring some of my projects as Graphic Designer: Branding, Layout and editorial pieces.
+
+🔗 Repo: https://github.com/clara-cdp/Portfolio   
+🌐 URL: https://clara-cdp-portfolio.onrender.com/
+#
 ## <img width="200" height="auto" alt="APIT_logico" src="https://github.com/user-attachments/assets/151616b2-4b57-407c-8599-e2d35f2ea606" />
 Point-and-click adventure game built entirely with Laravel (and Illustrator). 
 
@@ -61,11 +67,12 @@ Also Available: API + Front END (REACT)
 
 
 ---
+## <img width="200" height="auto" alt="taskomania" src="https://github.com/user-attachments/assets/12a40842-2129-4817-8b02-762e8347c52b" />
 
-# 📈 Working On
+Task Manager collaborative project with [Lauren](https://github.com/gregoridelrio).    
 
-- Building new portfolio-ready projects  
-- 3D adventure game with Unity  
+🔗 Repo: https://github.com/clara-cdp/Task-O-mania 
+
 ---
 
 <div align="center">
