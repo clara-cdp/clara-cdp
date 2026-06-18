@@ -74,6 +74,13 @@ Task Manager collaborative project with [Lauren](https://github.com/gregoridelri
 🔗 Repo: https://github.com/clara-cdp/Task-O-mania 
 
 ---
+## 🎴MATCH UP GAME. 
+
+A classic card matching game with customizable styles and scoring system.
+   
+🔗 Repo: https://github.com/clara-cdp/MATCH-UP-GAME
+
+---
 
 <div align="center">
 
