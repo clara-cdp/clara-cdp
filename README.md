@@ -47,7 +47,9 @@
 ---
 
 # 📌 Featured Projects
-## ⭐ MY GD PORTFOLIO
+
+## 🎨 $${\color{aqua}MY \space GD \space PORTFOLIO}$$ 
+
 
 Featuring some of my projects as Graphic Designer: Branding, Layout and editorial pieces.
 
