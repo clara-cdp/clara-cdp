@@ -19,19 +19,24 @@
 # 🚀 Tech Stack
   
 ## Frontend   
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react"/>
 
 ## Backend
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,go,java"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,go,java,npm,nodejs"/>
 
 ## Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb"/>
 
 ## Design
-<img src="https://skillicons.dev/icons?i=figma,ai,ps,indd,ae"/>
 
-## Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,wordpress,unity,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,ae" /> &nbsp;
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg"
+  width="47"
+/>
+
+## Tools & Platforms
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,wordpress,unity,postman&theme=dark" />
 
 ## Architecture & APIs
 
@@ -42,7 +47,9 @@
 
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest-7B2BF9?style=for-the-badge&logo=php&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ---
 
