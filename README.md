@@ -22,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react"/>
 
 ## Backend
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,go,java,npm,nodejs"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,go,java,nodejs"/>
 
 ## Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb"/>
@@ -36,7 +36,7 @@
 />
 
 ## Tools & Platforms
-<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,wordpress,unity,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=npm,docker,git,github,gitlab,wordpress,unity,postman&theme=dark" />
 
 ## Architecture & APIs
 
