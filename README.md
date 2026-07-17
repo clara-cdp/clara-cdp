@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb"/>
 
 ## Design
-<img src="https://skillicons.dev/icons?i=figma,ai,ps,ae"/>
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,indd,ae"/>
 
 ## Tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,wordpress,unity,postman&theme=dark" />
