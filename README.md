@@ -22,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react"/>
 
 ## Backend
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,go,java,nodejs"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,go,java"/>
 
 ## Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb"/>
