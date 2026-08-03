@@ -55,13 +55,14 @@
 
 # 📌 Featured Projects
 
-## 🎨 $${\color{aqua}MY \space GD \space PORTFOLIO}$$ 
+# 🎨 $${\color{orange}MY \space PORTFOLIO}$$
 
+A portfolio built around a simple idea: **development and design are not separate disciplines.**
 
-Featuring some of my projects as Graphic Designer: Branding, Layout and editorial pieces.
+Explore two distinct experiences within the same application: **Online**, showcasing my software engineering projects, and **Offline**, featuring branding, editorial design and visual communication work. Different aesthetics, same person.
 
-🔗 Repo: https://github.com/clara-cdp/Portfolio   
-🌐 URL: https://clara-cdp-portfolio.onrender.com/
+🔗 **Repository:** https://github.com/clara-cdp/Portfolio  
+🌐 **Live Demo:** https://clara-cdp-portfolio.onrender.com/
 #
 ## <img width="200" height="auto" alt="APIT_logico" src="https://github.com/user-attachments/assets/151616b2-4b57-407c-8599-e2d35f2ea606" />
 Point-and-click adventure game built entirely with Laravel (and Illustrator). 
@@ -76,7 +77,8 @@ Also Available: API + Front END (REACT)
 
 
 ---
-## <img width="200" height="auto" alt="taskomania" src="https://github.com/user-attachments/assets/12a40842-2129-4817-8b02-762e8347c52b" />
+## <img width="250" height="auto" alt="Screenshot 2026-08-03 125110" src="https://github.com/user-attachments/assets/8d4adb0f-437c-41dc-ab57-87b711bc3778" />
+
 
 Task Manager collaborative project with [Lauren](https://github.com/gregoridelrio).    
 
