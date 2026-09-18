@@ -15,41 +15,17 @@
 </div>
 
 ---
-
 # 🚀 Tech Stack
-  
-## Frontend   
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react"/>
 
-## Backend
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,go,java"/>
-
-## Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb"/>
-
-## Design
-
-<img src="https://skillicons.dev/icons?i=figma,ai,ps,ae" /> &nbsp;
-<img
-  src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg"
-  width="47"
-/>
-
-## Tools & Platforms
-<img src="https://skillicons.dev/icons?i=npm,docker,git,github,gitlab,wordpress,unity,postman&theme=dark" />
-
-## Architecture & APIs
-
-![MVC](https://img.shields.io/badge/MVC-6A5ACD?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
-
-## Testing
-
-![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white)
-![Pest](https://img.shields.io/badge/Pest-7B2BF9?style=for-the-badge&logo=php&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" height="34" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,go,java" height="34" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" height="34" /> |
+| **Design** | <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae" height="34" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" width="34" height="34" style="vertical-align: middle;" /> |
+| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=npm,docker,git,github,gitlab,wordpress,unity,postman&theme=dark" height="34" /> |
+| **Testing** | <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" height="26" /> <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" height="26" /> <img src="https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white" height="26" /> <img src="https://img.shields.io/badge/Pest-7B2BF9?style=flat-square&logo=php&logoColor=white" height="26" /> <img src="https://img.shields.io/badge/API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" height="26" /> |
+| **Architecture & APIs** | <img src="https://img.shields.io/badge/MVC-6A5ACD?style=flat-square" height="26" /> <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" height="26" /> |
 
 ---
 
@@ -92,30 +68,18 @@ A classic card matching game with customizable styles and scoring system.
 🔗 Repo: https://github.com/clara-cdp/MATCH-UP-GAME
 
 ---
+# 🔨 Currently Working On
 
-<div align="center">
+## 🍿 Pop-Choice
+A web application designed to help users discover, pick, and decide on movies effortlessly. Currently under active development.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=clara-cdp&theme=radical)
-
-</div>
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/clara-cdp/clara-cdp/output/github-contribution-grid-snake.svg)
-
-</div>
+🔗 **Repository:** https://github.com/clara-cdp/Pop-Choice
 
 ---
 
 # 📫 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clara_CDP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clara-cdp)
-
-[![GitHub](https://img.shields.io/badge/GitHub-clara--cdp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clara-cdp)
-
-</div>
+<a href="https://github.com/clara-cdp" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="38" height="38" alt="GitHub" /></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/clara-cdp" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="38" height="38" alt="LinkedIn" /></a> &nbsp; &nbsp; <a href="mailto:Clarianne.cdp@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="38" height="38" alt="Email" /></a></p>
 
 ---
 
@@ -124,6 +88,6 @@ A classic card matching game with customizable styles and scoring system.
 <img width="100" height="auto" alt="PYn" src="https://github.com/user-attachments/assets/d964abb3-d483-4f79-a844-fd2c31093cc5" />  
 
 
-✨ Thanks for visiting my profile ✨
+✨ Thanks for visiting ✨
 
 </div>
