@@ -53,7 +53,9 @@ Explore two distinct experiences within the same application: **Online**, showca
 
 
 # <img width="58" height="65" alt="logo" src="https://github.com/user-attachments/assets/67c541ac-ad6b-41dc-b555-48fb29c4759a" />Sitges-Companion app (PWA)<?xml version="1.0" encoding="UTF-8"?> 
-A custom-fan-made Companion App for the 2026 Sitges Film Festival   
+A custom-fan-made Companion App for the 2026 Sitges Film Festival  
+
+
 🔗 Repo: https://github.com/clara-cdp/6sitgesApp
 
 
@@ -85,14 +87,7 @@ A classic card matching game with customizable styles and scoring system.
 🔗 Repo: https://github.com/clara-cdp/MATCH-UP-GAME
 
 ---
-# 🔨 Currently Working On
 
-## 🍿 Pop-Choice
-A web application designed to help users discover, pick, and decide on movies effortlessly. Currently under active development.
-
-🔗 **Repository:** https://github.com/clara-cdp/Pop-Choice
-
----
 
 # 📫 Connect With Me
 
